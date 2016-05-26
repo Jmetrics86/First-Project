@@ -1,0 +1,105 @@
+'''
+Created on May 25, 2016
+
+@author: Brewster Desktop
+'''
+x = 1+1
+print x
+print "hello world"
+x = x + 2
+print x
+
+print 2+23
+
+print "I do not think that I can run the files in the console to debug, only the modules"
+print "no need to save!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print "made quite a few empty lines between this and the statment preceding it"
